@@ -23,7 +23,7 @@
     ],
     "Header": [
       {
-        "Label": "Home ",
+        "Label": "Home",
         "Url": "/home",
         "Video-test": "/uploads/Wildlife.mp4"
       },
