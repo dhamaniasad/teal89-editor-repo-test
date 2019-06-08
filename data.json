@@ -1,0 +1,84 @@
+{
+  "Site_info": {
+    "Copyright": "",
+    "Favicon": "favicon.ico"
+  },
+  "Nav": {
+    "Footer": [
+      {
+        "Label": "About",
+        "Url": "/about"
+      },
+      {
+        "Label": "Facebook1",
+        "Url": "www.facebook.com/mywebsite",
+        "Target": "_blank"
+      },
+      {
+        "Label": "Twitter",
+        "Url": "https://twitter/mywebsite",
+        "Target": "_blank",
+        "File": "/uploads/Screenshot from 2019-05-15 03-15-38.png"
+      }
+    ],
+    "Header": [
+      {
+        "Label": "Home ",
+        "Url": "/home",
+        "Video-test": "/uploads/Wildlife.mp4"
+      },
+      {
+        "Label": "Product",
+        "Url": "/product"
+      },
+      {
+        "Label": "Blog",
+        "Url": "/blog"
+      },
+      {
+        "Label": "New Header"
+      }
+    ]
+  },
+  "Pages": [
+    {
+      "Key": "A Page",
+      "Body": "",
+      "Search_enabled": true,
+      "Heading": "hello",
+      "Tags": [
+        "foo",
+        "bar",
+        "hux"
+      ]
+    },
+    {
+      "Key": "Hello test",
+      "Heading": "Chawal",
+      "Body": "chawal ki bodya",
+      "Search_enabled": true,
+      "Title": "Test Seo page title",
+      "Description": "some descriptions about web crawlers"
+    }
+  ],
+  "Messages": {
+    "Errors": {
+      "InternalError": {
+        "Title": "Internal Error",
+        "Message": "An internal error occurred"
+      },
+      "ConnectionError": {
+        "Title": "Network Error",
+        "Message": "There seem to be network issues"
+      },
+      "Intersect Error": {
+        "Title": "hello",
+        "Message": "dalsdsad"
+      }
+    },
+    "Tooltips": {
+      "Welcome": "Welcome to my web site",
+      "SendEmail": "click to send an email"
+    }
+  }
+}
